@@ -1,0 +1,16 @@
+.main{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.student{
+    width: 10%;
+    height: 120px;
+   text-align: cente;
+    padding: 20px;
+    border: solid, 2px, rgba(66, 61, 61, 0.795);
+    border-radius: 10px;
+   background-color: beige;
+}
