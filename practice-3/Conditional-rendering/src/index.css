@@ -1,0 +1,17 @@
+.reactIntro{
+  font-size: 2em;
+  background-color: rgb(69, 128, 111);
+  color:rgb(253, 253, 253);
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+  }
+  .login-message{
+  font-size: 2em;
+  background-color: rgb(230, 20, 20);
+  color: white;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+  }
